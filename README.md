@@ -9,8 +9,8 @@ A respositiory to learn about GitHub Foundtations Certification
 1.third
 
 
-'''python
+```python
 print('hello world')
-'''
+```
 
-'print('hello')'
+`print('hello')`
