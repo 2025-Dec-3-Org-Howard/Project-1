@@ -1,8 +1,8 @@
 # hello-world-2025-dec-03-a
 A respositiory to learn about GitHub Foundtations Certification
 
-[ ] do this
-[x] done this
+- [ ] do this
+- [x] done this
 
 1. first
 1. second
